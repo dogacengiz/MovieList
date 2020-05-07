@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://doga:doga123@cluster-jnyzq.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret"
+}
